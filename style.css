@@ -1,0 +1,23 @@
+*{
+    /* margin:%; */
+    padding:0px;
+    text-align: center;
+}
+body{
+    background-color: #212121;
+    color:cadetblue;
+    justify-items: center;
+    margin:10%;
+    
+}
+#display{
+    border:2px solid #fff;
+    width:400px;
+    height:70px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 30px;
+    margin-left:33%;
+}
